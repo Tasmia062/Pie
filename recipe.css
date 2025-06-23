@@ -1,0 +1,56 @@
+body{
+    background: url("https://www.rose-hulman.edu/class/csse/csse280/current/Homework/recipe/images/silverware.jpg") repeat fixed;
+    color: #404040;
+    font-family: Georgia, Garamond, serif;
+    font-size: 11pt;
+}
+
+h1, h2 {
+    font-family: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+    color: #A4A400;
+    background-color: #F0F0F0;
+    text-decoration: underline;
+    padding: 10px;
+    margin: 0;
+
+
+}
+
+h1 {
+    font-size: 22pt;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 0.25em;
+}
+
+h2 {
+    font-size: 18pt;
+    margin-top: 20px;
+    padding: 5px;
+    letter-spacing: 0.25em;
+}
+
+ul {
+    list-style-image: url("https://www.rose-hulman.edu/class/csse/csse280/current/Homework/recipe/images/pie_bullet.png");
+}
+
+abbr[title] {
+    text-decoration: underline;
+    cursor: help;
+}
+
+ol li strong {
+    font-weight: bold;
+}
+
+blockquote {
+    background-color: #FFFFA8;
+    padding: 10px;
+    margin: 10px;
+    font-style: italic;
+    border-left: 4px solid #A4A400;
+}
+
+a {
+    color: #A4A400;
+}
